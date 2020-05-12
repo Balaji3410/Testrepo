@@ -1,4 +1,3 @@
-//genericbuild()
 node(){
   stage('Build'){
     echo 'Building.....'
